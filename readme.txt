@@ -1,0 +1,1 @@
+This notebook represents some of my exploratory work on the Dream net. All the functions are in the Jupyter notebook
